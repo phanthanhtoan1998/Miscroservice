@@ -1,4 +1,4 @@
-package com.example.Common.Enums;
+package com.example.common.enums;
 
 public enum EnumProducts {
 
