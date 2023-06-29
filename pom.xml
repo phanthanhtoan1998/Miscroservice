@@ -19,6 +19,8 @@
 		<module>user-service</module>
 		<module>config-server</module>
         <module>product-service</module>
+        <module>gateway-service</module>
+        <module>amazonS3-service</module>
     </modules>
 	<properties>
 		<java.version>17</java.version>

@@ -1,0 +1,14 @@
+package com.example.amazonS3service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AmazonS3ServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AmazonS3ServiceApplication.class, args);
+    }
+
+
+}
